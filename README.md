@@ -51,7 +51,7 @@ c) Display at least 6 noisy images and finally the clean image
 ![arya](https://user-images.githubusercontent.com/62857780/145595201-7ea842e8-787c-442f-8c18-d8b39f8cd525.jpg)
 
 ## Project 6
-The goal of this assignment was two-fold:
+The goal of this project was two-fold:
 a) Smooth the noisy image attached by using a mean (average) filter in 3x3 window iteratively until
 satisfactory results are obtained. Show the results for 1 5 10 iterations.
 b) Do some research on median filters and advantage of median filter over mean filter. Apply median
