@@ -61,7 +61,7 @@ results. Write your conclusions after you compare the results from average filte
 ![lena64](https://user-images.githubusercontent.com/62857780/145594684-14f7c8b1-4db7-4cd9-a8be-0897f7d3300b.jpg)
 
 ## Project 7
-The goal of this assignment was three-fold:
+The goal of this project was three-fold:
 Enhance edges of the following image using:
 a) Roberts cross operator (Please read Roberts cross operator from the book)
 b) Sobel’s operator
